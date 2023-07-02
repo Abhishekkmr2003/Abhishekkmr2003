@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekkmr2003
-- 👀 I’m interested in Fron-End Development.
+- 👀 I’m interested in Front-End Development.
 - 🌱 I’m currently learning Angular JS.
 - 💞️ I’m looking to collaborate on projects that are open source.
 
